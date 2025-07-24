@@ -10,14 +10,10 @@ This project enriches real estate search by combining property listings with inf
 3. [Requirements](#requirements)  
 4. [Installation](#installation)  
 5. [Usage](#usage)  
-6. [Directory & File Details](#directory--file-details)  
 7. [Methodology](#methodology)  
 8. [Database](#database)  
 9. [Visualizations & Reports](#visualizations--reports)  
 10. [Presentation](#presentation)  
-11. [Contributing](#contributing)  
-12. [Author](#author)  
-13. [License](#license)
 
 ## Objectives
 - **Data Collection**: Scrape real estate listings from Idealista and service points from PagineGialle.  
@@ -35,6 +31,7 @@ This project enriches real estate search by combining property listings with inf
 ├── Visualization/                # Notebooks & scripts for charts and interactive maps
 ├── presentation/                 # Presentation slides (PowerPoint or PDF)
 └── README.md                     # This documentation file
+```
 
 ## Requirements
 
